@@ -2,7 +2,7 @@ import React from 'react'
 import Headernavigation from './Headernavigation'
 import Cont1 from './Cont1'
 import Cont2 from './Cont2'
-import Cont3 from './cont3'
+import Cont3 from './Cont3'
 
 const Heroheadsection = () => {
   return (
